@@ -6,7 +6,7 @@
       "lat":48.856986,
       "lng":2.352128
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Париж, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
     "places":[
       {
         "name": "Paris places-1",
@@ -15,7 +15,7 @@
           "lat": 48.832590,
           "lng": 2.333794
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Париж, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Paris places-2",
@@ -24,7 +24,7 @@
           "lat": 48.864199,
           "lng": 2.416841
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Париж, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Paris places-3",
@@ -33,7 +33,7 @@
           "lat": 48.858196,
           "lng": 2.416362
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Париж, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Paris places-4",
@@ -42,7 +42,7 @@
           "lat": 48.857559,
           "lng": 2.391634
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Париж, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Paris places-5",
@@ -51,7 +51,7 @@
           "lat": 48.877482,
           "lng": 2.299729
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Париж, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -62,7 +62,7 @@
           "lat": 47.215221,
           "lng": -1.553267
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Нант, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
         "places":[
           {
             "name": "Nantes places-1",
@@ -71,7 +71,7 @@
               "lat": 47.186486,
               "lng": -1.596806
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Нант, Франция, </div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Nantes places-2",
@@ -80,7 +80,7 @@
               "lat": 47.154475,
               "lng": -1.534865
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Нант, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Nantes places-3",
@@ -89,7 +89,7 @@
               "lat": 47.263173,
               "lng": -1.534887
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Нант, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       },
@@ -100,7 +100,8 @@
           "lat": 49.257894,
           "lng": 4.031735
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Реймc, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Reims places-1",
@@ -109,7 +110,7 @@
               "lat": 49.249477,
               "lng": 3.991376
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Реймc, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       },
@@ -120,7 +121,8 @@
           "lat": 43.295906,
           "lng": 5.382384
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Марсель, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Marseille places-1",
@@ -129,7 +131,7 @@
               "lat": 43.316528,
               "lng": 5.365322
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Марсель, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Marseille places-2",
@@ -138,7 +140,7 @@
               "lat": 43.220462,
               "lng": 5.375415
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Марсель, Франция</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -151,7 +153,7 @@
       "lat":42.697611,
       "lng":23.321906
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>София, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
     "places":[
       {
         "name": "Sofia places-1",
@@ -160,7 +162,7 @@
           "lat": 42.691709,
           "lng": 23.311000
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>София, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Sofia places-2",
@@ -169,7 +171,7 @@
           "lat": 42.702278,
           "lng": 23.350140
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>София, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Sofia places-3",
@@ -178,7 +180,7 @@
           "lat": 42.682921,
           "lng": 23.320719
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>София, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -189,7 +191,8 @@
           "lat": 43.209830,
           "lng": 27.915466
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Варна, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Varna places-1",
@@ -198,7 +201,7 @@
               "lat": 43.235697,
               "lng": 27.872063
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Варна, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Varna places-2",
@@ -207,7 +210,7 @@
               "lat": 43.235387,
               "lng": 28.000418
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Варна, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Varna places-3",
@@ -216,7 +219,7 @@
               "lat": 43.128326,
               "lng": 27.904197
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Варна, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       },
@@ -227,7 +230,7 @@
           "lat": 42.146319,
           "lng": 24.745610
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Пловдив, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
         "places":[
           {
             "name": "Plovdiv places-1",
@@ -236,7 +239,7 @@
               "lat": 42.107278,
               "lng": 24.702854
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Пловдив, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Plovdiv places-2",
@@ -245,20 +248,20 @@
               "lat": 42.162465,
               "lng": 24.726205
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Пловдив, Болгария</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
     ]
   },
   {
-    "name": "Moldova",
+    "name": "Romania",
     "type": "country",
     "coordinates":{
-      "lat":46.9999648,
-      "lng":28.788137
+      "lat":44.4379269,
+      "lng":26.0245979
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Бухарест, Румыния</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
     "places":[
       {
         "name": "Bucharester places-1",
@@ -267,7 +270,7 @@
           "lat": 44.451056,
           "lng": 26.109578
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Бухарест, Румыния</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Bucharester places-2",
@@ -276,7 +279,7 @@
           "lat": 44.441974,
           "lng": 26.115953
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Бухарест, Румыния</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -287,7 +290,8 @@
           "lat":44.856144,
           "lng":  24.869340
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Пітешть, Румыния</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Pitesti places-1",
@@ -296,7 +300,7 @@
               "lat": 44.850355,
               "lng": 24.880010
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Пітешть, Румыния</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       },
@@ -307,7 +311,8 @@
           "lat":46.770215,
           "lng":23.621417
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Клуж-Напока, Румыния</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Napoca places-1",
@@ -316,7 +321,7 @@
               "lat": 46.776230,
               "lng":  23.602069
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Клуж-Напока, Румыния</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Napoca places-2",
@@ -325,7 +330,7 @@
               "lat": 46.768429,
               "lng":  23.599786
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Клуж-Напока, Румыния</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -338,7 +343,8 @@
       "lat":53.8840092,
       "lng":27.5796472
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Минск, Беларусь</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Minsk places-1",
@@ -347,7 +353,7 @@
           "lat": 53.895895,
           "lng": 27.538260
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Минск, Беларусь</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Minsk places-2",
@@ -356,7 +362,7 @@
           "lat": 53.905951,
           "lng": 27.533642
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Минск, Беларусь</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -367,7 +373,7 @@
           "lat": 52.434072,
           "lng": 30.987356
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Гомель, Беларусь</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
         "places":[
           {
             "name": "Gomel places-1",
@@ -376,7 +382,7 @@
               "lat": 52.424651,
               "lng": 30.927331
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Гомель, Беларусь</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Gomel places-2",
@@ -385,7 +391,7 @@
               "lat": 52.450659,
               "lng": 30.968911
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Гомель, Беларусь</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Gomel places-3",
@@ -394,7 +400,7 @@
               "lat": 52.429774,
               "lng":  30.967336
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Гомель, Беларусь</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -407,7 +413,8 @@
       "lat":55.6713442,
       "lng":12.5237846
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Копенгаген, Дания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Copenhagen places-1",
@@ -416,7 +423,7 @@
           "lat": 55.676300,
           "lng": 12.583923
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Копенгаген, Дания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Copenhagen places-2",
@@ -425,7 +432,7 @@
           "lat": 55.673026,
           "lng": 12.580025
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Копенгаген, Дания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -439,7 +446,8 @@
       "lat":50.8550625,
       "lng":4.3053505
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Брюссель, Бельгия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Brussels places-1",
@@ -448,7 +456,7 @@
           "lat": 50.849735,
           "lng": 4.338328
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Брюссель, Бельгия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Brussels places-2",
@@ -457,7 +465,7 @@
           "lat": 50.856289,
           "lng": 4.342259
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Брюссель, Бельгия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Brussels places-3",
@@ -466,7 +474,7 @@
           "lat": 50.833434,
           "lng": 4.346038
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Брюссель, Бельгия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -477,7 +485,8 @@
           "lat":51.054528,
           "lng": 3.713954
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Гент, Бельгия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Gent places-1",
@@ -486,7 +495,7 @@
               "lat": 51.055924,
               "lng": 3.727522
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Гент, Бельгия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -499,7 +508,8 @@
       "lat":47.376763,
       "lng":8.541847
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Швейцарская Конфедерация</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Zurich places-1",
@@ -508,7 +518,7 @@
           "lat": 47.377471,
           "lng": 8.540272
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Цюрих, Швейцарская Конфедерация</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Zurich places-2",
@@ -517,7 +527,7 @@
           "lat": 47.375135,
           "lng": 8.541174
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Цюрих, Швейцарская Конфедерация</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Zurich places-3",
@@ -526,7 +536,7 @@
           "lat": 47.376424,
           "lng": 8.547987
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Цюрих, Швейцарская Конфедерация</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -537,7 +547,8 @@
           "lat":46.947889,
           "lng": 7.447583
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Берн, Швейцарская Конфедерация</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Bern places-1",
@@ -546,7 +557,7 @@
               "lat": 46.949839,
               "lng": 7.444109
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Берн, Швейцарская Конфедерация</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Bern places-2",
@@ -555,7 +566,7 @@
               "lat": 46.947658,
               "lng": 7.435538
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Берн, Швейцарская Конфедерация</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -568,7 +579,8 @@
       "lat":45.813515,
       "lng":15.982544
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Загреб, Хорватия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Zagreb places-1",
@@ -577,7 +589,7 @@
           "lat": 45.807311,
           "lng": 16.003433
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Загреб, Хорватия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Zagreb places-2",
@@ -586,7 +598,7 @@
           "lat": 45.796177,
           "lng": 15.981891
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Загреб, Хорватия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Zagreb places-3",
@@ -595,7 +607,7 @@
           "lat": 45.794865,
           "lng": 15.966913
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Загреб, Хорватия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Zagreb places-4",
@@ -604,7 +616,7 @@
           "lat": 45.813472,
           "lng":  15.958404
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Загреб, Хорватия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Zagreb places-5",
@@ -613,7 +625,7 @@
           "lat": 45.805458,
           "lng":15.980556
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Загреб, Хорватия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Zagreb places-6",
@@ -622,7 +634,7 @@
           "lat": 45.808389,
           "lng": 15.971799
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Загреб, Хорватия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Zagreb places-7",
@@ -631,7 +643,7 @@
           "lat": 45.818981,
           "lng": 15.971537
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Загреб, Хорватия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -645,7 +657,8 @@
       "lat":48.211523,
       "lng":16.377479
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Вена, Австрия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Vienna places-1",
@@ -654,7 +667,7 @@
           "lat": 48.182721,
           "lng":  16.337889
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Вена, Австрия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Vienna places-2",
@@ -663,7 +676,7 @@
           "lat": 48.214652,
           "lng": 16.336449
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Вена, Австрия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Vienna places-3",
@@ -672,7 +685,7 @@
           "lat": 48.192552,
           "lng": 16.414911
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Вена, Австрия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -683,7 +696,8 @@
           "lat":47.070605,
           "lng":15.439637
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Грац, Австрия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Graz places-1",
@@ -692,7 +706,7 @@
               "lat": 47.076817,
               "lng":  15.448756
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Грац, Австрия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Graz places-2",
@@ -701,7 +715,7 @@
               "lat":47.071084,
               "lng":  15.447569
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Грац, Австрия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -714,7 +728,7 @@
       "lat":52.2330653,
       "lng":20.9211121
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Варшава, Польша</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
     "places":[
       {
         "name": "Warszawa places-1",
@@ -723,7 +737,7 @@
           "lat": 52.230026,
           "lng": 21.016391
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Варшава, Польша</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Warszawa places-2",
@@ -732,7 +746,7 @@
           "lat": 52.253163,
           "lng":  20.963171
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Варшава, Польша</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -743,7 +757,8 @@
           "lat":51.246043,
           "lng": 22.569310
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Люблин, Польша</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Lublin places-1",
@@ -752,7 +767,7 @@
               "lat": 51.253635,
               "lng": 22.508631
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Люблин, Польша</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Lublin places-2",
@@ -761,7 +776,7 @@
               "lat":51.232775,
               "lng": 22.512360
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Люблин, Польша</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       },
@@ -772,7 +787,8 @@
           "lat":54.351001,
           "lng":18.645946
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Гданск, Польша</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Gdansk places-1",
@@ -781,7 +797,7 @@
               "lat":54.344517,
               "lng":18.617752
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Гданск, Польша</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -794,7 +810,8 @@
       "lat":38.7436883,
       "lng":-9.1952227
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Лиссабон, Португалия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Lisbon places-1",
@@ -803,7 +820,7 @@
           "lat": 38.723320,
           "lng":  -9.131885
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Лиссабон, Португалия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Lisbon places-2",
@@ -812,7 +829,7 @@
           "lat": 38.740037,
           "lng": -9.114965
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Лиссабон, Португалия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Lisbon places-3",
@@ -821,7 +838,7 @@
           "lat": 38.819248,
           "lng":-9.451029
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Лиссабон, Португалия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Lisbon places-4",
@@ -830,7 +847,7 @@
           "lat": 38.682572,
           "lng":-9.322616
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Лиссабон, Португалия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -841,7 +858,8 @@
           "lat":41.158379,
           "lng": -8.628669
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Порто, Португалия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Porto places-1",
@@ -850,7 +868,7 @@
               "lat": 41.145346,
               "lng": -8.605381
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Порто, Португалия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Porto places-2",
@@ -859,7 +877,7 @@
               "lat":41.169802,
               "lng": -8.684286
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Порто, Португалия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -884,7 +902,8 @@
           "lat":39.498625,
           "lng": -0.356263
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Валенсия, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Valencia places-1",
@@ -893,7 +912,7 @@
               "lat": 39.422405,
               "lng": -0.454184
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Валенсия, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Valencia places-2",
@@ -902,7 +921,7 @@
               "lat":39.412399,
               "lng": -0.338416
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Валенсия, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       },
@@ -913,7 +932,8 @@
           "lat":36.748123,
           "lng": -4.424363
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Малага, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Malaga places-1",
@@ -922,7 +942,7 @@
               "lat":36.722474,
               "lng": -4.587669
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Малага, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Malaga places-2",
@@ -931,7 +951,7 @@
               "lat":36.731221,
               "lng":-4.239918
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Малага, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Malaga places-3",
@@ -940,7 +960,7 @@
               "lat":36.781986,
               "lng": -4.371679
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Малага, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       },
@@ -951,7 +971,8 @@
           "lat":37.406843,
           "lng": -5.971935
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Севилья, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Sevilla places-1",
@@ -960,7 +981,7 @@
               "lat":37.386588,
               "lng":  -6.030577
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Севилья, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Sevilla places-2",
@@ -969,7 +990,7 @@
               "lat":37.427177,
               "lng": -5.879674
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Севилья, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button  popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       },
@@ -980,7 +1001,8 @@
           "lat":43.296457,
           "lng": -2.917451
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Більбао, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button  popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Bilbo places-1",
@@ -989,7 +1011,7 @@
               "lat":43.271260,
               "lng":-3.084513
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Більбао, Испания</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -1002,7 +1024,8 @@
       "lat":41.9102415,
       "lng":12.3959147
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Рим, Италия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Rome places-1",
@@ -1011,7 +1034,7 @@
           "lat": 41.856591,
           "lng":   12.501217
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Рим, Италия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Rome places-2",
@@ -1020,7 +1043,7 @@
           "lat": 41.871498,
           "lng": 12.397387
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Рим, Италия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Rome places-3",
@@ -1029,7 +1052,7 @@
           "lat":41.945553,
           "lng": 12.412944
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Рим, Италия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Rome places-4",
@@ -1038,7 +1061,7 @@
           "lat": 41.899270,
           "lng":12.569872
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Рим, Италия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -1049,7 +1072,8 @@
           "lat":38.120332,
           "lng": 13.361874
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Палермо, Италия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Palermo places-1",
@@ -1058,7 +1082,7 @@
               "lat": 38.060714,
               "lng": 13.426457
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Палермо, Италия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Palermo places-2",
@@ -1067,7 +1091,7 @@
               "lat":38.071390,
               "lng": 13.075383
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Палермо, Италия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -1080,7 +1104,7 @@
       "lat":55.755387,
       "lng":37.620691
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Москва, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
     "places":[
       {
         "name": "Moscow places-1",
@@ -1089,7 +1113,7 @@
           "lat": 55.758660,
           "lng":  37.629003
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Москва, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Moscow places-2",
@@ -1098,7 +1122,7 @@
           "lat": 55.760018,
           "lng": 37.606225
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Москва, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Moscow places-3",
@@ -1107,7 +1131,7 @@
           "lat":55.749940,
           "lng":37.621731
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Москва, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Moscow places-4",
@@ -1116,7 +1140,7 @@
           "lat":55.747417,
           "lng":37.616695
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Москва, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -1127,7 +1151,8 @@
           "lat":59.933768,
           "lng":30.328738
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Санкт-Петербург, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Saint Petersburg places-1",
@@ -1136,7 +1161,7 @@
               "lat": 59.919351,
               "lng": 30.300813
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Санкт-Петербург, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Saint Petersburg places-2",
@@ -1145,7 +1170,7 @@
               "lat":59.914841,
               "lng": 30.353353
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Санкт-Петербург, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Saint Petersburg places-3",
@@ -1154,7 +1179,7 @@
               "lat":59.935115,
               "lng":30.368055
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Санкт-Петербург, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Saint Petersburg places-4",
@@ -1163,7 +1188,7 @@
               "lat":59.941999,
               "lng":30.329653
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Санкт-Петербург, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Saint Petersburg places-5",
@@ -1172,7 +1197,7 @@
               "lat":59.936882,
               "lng":  30.306087
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Санкт-Петербург, Россия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -1185,7 +1210,8 @@
       "lat":52.518806,
       "lng":13.403038
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Берлин, Германия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
       {
         "name": "Berlin places-1",
@@ -1194,7 +1220,7 @@
           "lat": 52.517670,
           "lng":  13.402296
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Берлин, Германия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
     "city": [
@@ -1205,7 +1231,8 @@
           "lat":48.125835,
           "lng":11.568925
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Мюнхен, Германия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Munich places-1",
@@ -1214,7 +1241,7 @@
               "lat": 48.158107,
               "lng":  11.545395
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Мюнхен, Германия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Munich places-2",
@@ -1223,7 +1250,7 @@
               "lat":48.147917,
               "lng": 11.588157
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Мюнхен, Германия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -1244,7 +1271,7 @@
           "lat": 50.440355,
           "lng": 30.562697
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Киев, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Kiev places-2",
@@ -1253,7 +1280,7 @@
           "lat": 50.453826,
           "lng": 30.511391
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Киев, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Kiev places-3",
@@ -1262,7 +1289,7 @@
           "lat": 50.346604,
           "lng": 30.502105
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Киев, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       },
       {
         "name": "Kiev places-4",
@@ -1271,10 +1298,11 @@
           "lat": 50.414051,
           "lng": 30.677476
         },
-        "popupContent": "places snazzy!"
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Киев, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
       }
     ],
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Киев, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "city": [
       {
         "name": "Lviv",
@@ -1283,7 +1311,7 @@
           "lat":49.843252,
           "lng": 24.026903
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Львов, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
         "places":[
           {
             "name": "Lviv places-1",
@@ -1292,7 +1320,7 @@
               "lat": 49.842178,
               "lng":   24.031430
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Львов, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Lviv places-2",
@@ -1301,7 +1329,7 @@
               "lat":49.838489,
               "lng": 24.025002
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Львов, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Lviv places-3",
@@ -1310,7 +1338,7 @@
               "lat":49.839850,
               "lng": 24.013053
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image3.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Львов, Украина</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
@@ -1323,7 +1351,8 @@
       "lat":50.0598058,
       "lng":14.3255416
     },
-    "popupContent": "country snazzy!",
+    "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Прага, Чехия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
     "places":[
 
     ],
@@ -1335,7 +1364,8 @@
           "lat":49.193525,
           "lng": 16.621055
         },
-        "popupContent": "city snazzy!",
+        "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Брно, Чехия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n",
+
         "places":[
           {
             "name": "Brno places-1",
@@ -1344,7 +1374,7 @@
               "lat": 49.189064,
               "lng":   16.602340
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Брно, Чехия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           },
           {
             "name": "Brno places-2",
@@ -1353,25 +1383,10 @@
               "lat":49.196179,
               "lng": 16.621687
             },
-            "popupContent": "places snazzy!"
+            "popupContent": "<div class='shortcode-type10'><div class='info'><div class='image-wrapp'><img src='img/map-image2.jpg' alt='' /></div><div class='share-wrapp'><div class='share-cell'><div class='share-title'>поделиться</div><a href='#' class='item fb'><img src='img/facebook2.svg' alt='' /></a><a href='#' class='item vk'><img src='img/vk-social-network-logo2.svg' alt='' /></a><a href='#' class='item in'><img src='img/instagram2.svg' alt='' /></a><a href='#' class='item tw'><img src='img/twitter-logo-silhouette2.svg' alt='' /></a></div></div><div class='title'>Название достопримечательности</div><div class='desc'>Брно, Чехия</div></div><div class='buttons-wrapper'><div class='button'><img src='img/split2.svg' alt='' /></div><div class='button'><img src='img/search2.svg' alt='' /></div><div class='button popupShare' onclick='showPopupShare()'><img src='img/share2.svg' alt='' /></div></div></div>\n"
           }
         ]
       }
-    ]
-  },
-  {
-    "name": "Romania",
-    "type": "country",
-    "coordinates":{
-      "lat":44.4379269,
-      "lng":26.0245979
-    },
-    "popupContent": "country snazzy!",
-    "places":[
-
-    ],
-    "city": [
-
     ]
   }
 ]
