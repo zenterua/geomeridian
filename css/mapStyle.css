@@ -168,7 +168,8 @@ body {
     transition-delay: 150ms;
 }
 .shortcode-type10 .buttons-wrapper img {
-    max-width: 18px;
+    width: 18px;
+    height: 18px;
     margin-top: 9px;
 }
 

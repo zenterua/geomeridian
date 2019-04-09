@@ -95,13 +95,13 @@ jQuery(function ($) {
             },
             success: function (response) {
                 allPlaces = response;
-                response.forEach(function(country) { // Create country marker
+                response.forEach(function(country) {
                     if ( country.city ) {
-                        country.city.forEach(function(city) { // Find inside country city and create marker city
+                        country.city.forEach(function(city) {
                             addMarker(city.coordinates.lat, city.coordinates.lng, city.type, city.name, city.popupContent);
 
                             if ( city.places ) {
-                                city.places.forEach(function(place) { // Inside city find places and create places marker
+                                city.places.forEach(function(place) {
                                     addMarker(place.coordinates.lat, place.coordinates.lng, place.type, place.name, place.popupContent);
                                 })
                             }
@@ -164,12 +164,12 @@ jQuery(function ($) {
         if ( markersClusters ) markersClusters.clearMarkers();
         if ( circle ) circle.setMap(null);
 
-        if ( filterType.toLowerCase() === 'country' ) { // show all county city and places
+        if ( filterType.toLowerCase() === 'country' ) {
             allPlaces.forEach(function (country) {
                 if ( country.name === filterCountry ) {
 
                     if ( country.city ) {
-                        country.city.forEach(function(city) { // Find inside country city and create marker city
+                        country.city.forEach(function(city) {
                             addMarker(city.coordinates.lat, city.coordinates.lng, city.type, city.name, city.popupContent);
 
                             if ( city.places ) {
@@ -191,13 +191,12 @@ jQuery(function ($) {
             allPlaces.forEach(function (country) {
                 if ( country.name === filterCountry ) {
                     if ( country.city ) {
-                        country.city.forEach(function(city) { // Find inside country city and create marker city
-                            console.log(city, filterCity);
+                        country.city.forEach(function(city) {
                             if ( city.name === filterCity ) {
                                 addMarker(city.coordinates.lat, city.coordinates.lng, city.type, city.name, city.popupContent);
 
                                 if ( city.places ) {
-                                    city.places.forEach(function(place) { // Inside city find places and create places marker
+                                    city.places.forEach(function(place) {
                                         addMarker(place.coordinates.lat, place.coordinates.lng, place.type, place.name, place.popupContent);
                                     })
                                 }
@@ -214,12 +213,11 @@ jQuery(function ($) {
             allPlaces.forEach(function (country) {
                 if ( country.name === filterCountry ) {
                     if ( country.city ) {
-                        country.city.forEach(function(city) { // Find inside country city and create marker city
+                        country.city.forEach(function(city) {
                             if ( city.name === filterCity ) {
 
                                 if ( city.places ) {
-                                    city.places.forEach(function(place) { // Inside city find places and create places marker
-                                        console.log( place.category, filterCategory );
+                                    city.places.forEach(function(place) {
                                         if ( place.category === filterCategory ) {
                                             addMarker(place.coordinates.lat, place.coordinates.lng, place.type, place.name, place.popupContent);
                                         }
@@ -240,11 +238,10 @@ jQuery(function ($) {
         initMap();
 
         $(document).on('click', '.closestPlaces', function () {
-            closestPlaces();
+            closestPlaces(geoPlaceLatLng);
         });
 
         $(document).on('click', '.mapFilter.country', function () {
-            console.log('country');
             filtering( $(this).data('filter-country'), $(this).data('filter-type') );
         });
 
